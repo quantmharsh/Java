@@ -14,10 +14,13 @@ public class Student {
  private String[] courses;
    
  //creating constructor
+ public Student(String regno, String name){
+   this.regNo = regno;
+   this.name = name;
+ }
  public Student(String regno , String name ,LocalDate dob ,String[] courses)
  {
-    this.regNo=regno;
-    this.name=name;
+    this(regno, name);
     this.dob=dob;
     this.courses=courses;
  }
@@ -76,7 +79,7 @@ class main
     Student[] students =new Student[3];
     for( int i=0;i<students.length;i++)
     {
-       System.out.println("enter detail for student"+i+1);
+       System.out.println("enter detail for student"+(i+1));
        System.out.println("enter Reg no:");
        String regNo =br.readLine();
        System.out.println("enter Name ");
@@ -86,9 +89,10 @@ class main
 
        //creating a new array for course
        String[] course =new String[3];
+       
        for( int j=0;j<course.length;j++)
        {
-               System.out.println("ENTER COURSE :"+j+1);
+         System.out.printf("ENTER COURSE :"+(j+1));
              String courses = br.readLine();
              if(courses.isEmpty())
              {

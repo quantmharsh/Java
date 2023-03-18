@@ -4,6 +4,8 @@ import java.util.Random;
 import java.io.*;
 
 
+//Harsh Kumar Srivastava
+//22MCA0310
 public class  RollingDice
 {
    int dice1;
