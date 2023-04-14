@@ -1,0 +1,252 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "driver",
+            "request": "launch",
+            "mainClass": "exp.driver",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "mathDriver",
+            "request": "launch",
+            "mainClass": "exp.mathDriver",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "MathDriver",
+            "request": "launch",
+            "mainClass": "exp.MathDriver",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "exp.test",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "praacticeException",
+            "request": "launch",
+            "mainClass": "exceptionHandling.praacticeException",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "DriverLogin",
+            "request": "launch",
+            "mainClass": "exceptionHandling.DriverLogin",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "Rethrow",
+            "request": "launch",
+            "mainClass": "exceptionHandling.Rethrow",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "PhoneNumber",
+            "request": "launch",
+            "mainClass": "StringPractice.PhoneNumber",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "DA1.Test",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "stringclass",
+            "request": "launch",
+            "mainClass": "DA1.stringclass",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "Square",
+            "request": "launch",
+            "mainClass": "DynamicMemoryDispatch.Square",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "Master",
+            "request": "launch",
+            "mainClass": "abstractInterface.Master",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "areaCheck",
+            "request": "launch",
+            "mainClass": "abstractInterface.areaCheck",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "defaultInInterface",
+            "request": "launch",
+            "mainClass": "abstractInterface.defaultInInterface",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "thisAndSuper",
+            "request": "launch",
+            "mainClass": "abstractInterface.thisAndSuper",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "bin.exp.Main",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "DivideZero",
+            "request": "launch",
+            "mainClass": "exceptionHandling.DivideZero",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "exceptionHandling.Main",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "Tax",
+            "request": "launch",
+            "mainClass": "exceptionHandling.Tax",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "basic",
+            "request": "launch",
+            "mainClass": "exceptionHandling.basic",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "ComplexDriver",
+            "request": "launch",
+            "mainClass": "exp.ComplexDriver",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "exp.Main",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "exp.Main.main",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "TestArea",
+            "request": "launch",
+            "mainClass": "exp.TestArea",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "practiceString",
+            "request": "launch",
+            "mainClass": "exp.practiceString",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "A",
+            "request": "launch",
+            "mainClass": "labcycle1.A",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "Account",
+            "request": "launch",
+            "mainClass": "labcycle1.Account",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "Dice",
+            "request": "launch",
+            "mainClass": "labcycle1.Dice",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeTest",
+            "request": "launch",
+            "mainClass": "labcycle1.EmployeeTest",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "Income",
+            "request": "launch",
+            "mainClass": "labcycle1.Income",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "InvoiceTest",
+            "request": "launch",
+            "mainClass": "labcycle1.InvoiceTest",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "main(1)",
+            "request": "launch",
+            "mainClass": "labcycle1.main",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "Main(3)",
+            "request": "launch",
+            "mainClass": "modelQp.Main",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "countAlphabets",
+            "request": "launch",
+            "mainClass": "modelQp.countAlphabets",
+            "projectName": "java_c441151"
+        }
+    ]
+}
