@@ -1,7 +1,7 @@
 package StringPractice;
 import java.util.Random;
 
-import java.beans.VetoableChangeSupport;
+
 
 
 class SentenceMaker
@@ -21,8 +21,8 @@ class SentenceMaker
             String verb1=verb[rand.nextInt(verb.length)];
             String preposition1= preposition[rand.nextInt(preposition.length)];
             String article2= article[rand.nextInt(article.length)];
-            String  noun2= noun[rand.nextInt(noun.length)];
-            String concateneString =  article1.substring(0,1).toUpperCase()+article1.substring(1)+" "+noun1+" "+verb1+" "+preposition1+" "+article2+ " "+noun2;
+            String noun2 = noun[rand.nextInt(noun.length)];
+            String concateneString =article1.substring(0, 1).toUpperCase() +article1.substring(1) +" "+noun1 +" "+ verb1 +" "+preposition1 +" "+article2+" "+noun2+".";
             System.out.println(concateneString);
 
 

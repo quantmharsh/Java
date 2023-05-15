@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "UsingThread",
+            "request": "launch",
+            "mainClass": "Multithreading.UsingThread",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "Features",
+            "request": "launch",
+            "mainClass": "vehicle.mercedes.Features",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "driver",
+            "request": "launch",
+            "mainClass": "packages.moth.mothDriver.driver",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "driver",
+            "request": "launch",
+            "mainClass": "packages.fan.fanDriver.driver",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "Studentdriver",
+            "request": "launch",
+            "mainClass": "cat1practice.Studentdriver",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "bankingSystem",
+            "request": "launch",
+            "mainClass": "modelQp.bankingSystem",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "createSentence",
+            "request": "launch",
+            "mainClass": "StringPractice.createSentence",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "practice",
+            "request": "launch",
+            "mainClass": "DA1.practice",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "stringSwitch",
+            "request": "launch",
+            "mainClass": "StringPractice.stringSwitch",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "Payroll",
+            "request": "launch",
+            "mainClass": "exp.Payroll",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "payroll",
+            "request": "launch",
+            "mainClass": "exp.payroll",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
             "name": "driver",
             "request": "launch",
             "mainClass": "exp.driver",

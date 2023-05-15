@@ -12,6 +12,7 @@ public class  RollingDice
    int dice2;
    int[] sumarr;
    int[] frequency;
+   Random rand = new Random();
 
    public RollingDice()
    {
@@ -22,7 +23,7 @@ public class  RollingDice
     }
     int getSum()
     {
-        int d1 = new Random().nextInt(6)+1;
+        int d1 = rand.nextInt(6)+1;
         int d2= new Random().nextInt(6)+1;
         int sum=d1+d2;
         return sum;

@@ -38,7 +38,7 @@ class PhoneNumber{
         String[] areaCode= telephone.split(" ", 4);
         String  ac= areaCode[1];
         String firstThree = areaCode[2];
-        String lastFour = areaCode[3];
+        String lastFour = areaCode[3]; 
          System.out.println("Area code"+ac);
          System.out.println("first three"+firstThree);
          System.out.println("last four"+lastFour);
