@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FacultyDataGenerator",
+            "request": "launch",
+            "mainClass": "FileHandling.FacultyDataGenerator",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
+            "name": "GradeSystem",
+            "request": "launch",
+            "mainClass": "Multithreading.GradeSystem",
+            "projectName": "java_c441151"
+        },
+        {
+            "type": "java",
             "name": "UsingThread",
             "request": "launch",
             "mainClass": "Multithreading.UsingThread",

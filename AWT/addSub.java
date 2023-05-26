@@ -35,7 +35,7 @@ public class addSub extends Frame  implements ActionListener ,ItemListener ,Mous
       tf4= new TextField(10);
       tf5= new TextField(12);
       l3= new Label("selected city");
-      list1 = new List(4);
+      list1 = new List(2);
       list1.add("varanasi");
       list1.add("mumbai");
       list1.add("delhi");
